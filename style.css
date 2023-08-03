@@ -38,7 +38,7 @@
 .card {
   width: 100px;
   height: 200px;
-  background: beige;
+
   margin: 10px auto;
 }
 .card imgage {
@@ -49,6 +49,6 @@
 .img1 {
   object-fit: cover;
 }
-.img1{
-    object-fit: contain;
+.img1 {
+  object-fit: contain;
 }
