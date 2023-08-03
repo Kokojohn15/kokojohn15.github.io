@@ -1,0 +1,37 @@
+.element {
+    border-radius: 25px;
+    background: #e8f3f2;
+    padding: 20px;
+    border: 3px solid black;
+    border-spacing: 30px;
+    border-style: solid;
+    margin: 25px;
+    border-width: 1px;
+    box-shadow: 4px 4px 5px grey;
+  }
+
+  .box {
+    background: lightblue;
+    padding: none;
+    border: solid black;
+    border-style: solid;
+    border-spacing: 30px;
+    margin: 25px;
+    border-width: 1px;
+    box-shadow: 3px 3px 4px;
+  }
+  .social-media {
+    color: #aaaaaa;
+    transition: color 0.2s;
+    font-size: 30px;
+  }
+  .social-media:hover {
+    color: #333333;
+  }
+  .list {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    font-size: 18px;
+    font-weight: bold;
+  }
